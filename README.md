@@ -1,1 +1,3 @@
 # JavaProject
+
+Beautiful project #dontjudge
